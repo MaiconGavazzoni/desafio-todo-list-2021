@@ -28,6 +28,7 @@ export function TaskList() {
     setNewTaskTitle('');
   }
 
+
   function handleToggleTaskCompletion(id: number) {
     // Altere entre `true` ou `false` o campo `isComplete` de uma task com dado ID
 
